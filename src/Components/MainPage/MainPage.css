@@ -1,0 +1,35 @@
+.main {
+    position: absolute;
+}
+
+.title-area {
+    height: 90vh;
+    width: 98vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.title {
+    font-size: 10vh;
+}
+
+.t {
+    color: #7f87b2;
+}
+.r {
+    color: #83b2d0
+}
+.e {
+    color: 	#95dab6;
+}
+.v {
+    color: #f2e6b1;
+}
+.o {
+    color: #dc8580;
+}
+.r2 {
+    color: #af4154 ;
+}
+
